@@ -1,0 +1,107 @@
+.main-content-box{
+    margin: 32px 39.6px;
+    display: flex;
+}
+.main-img-container{
+    display: flex;
+    align-items: center;
+}
+.main-img-container img{
+    width: 720px;
+}
+
+.main-product-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(207, 230, 181);
+    padding: 32px 48px;
+    width: 720px;
+}
+.main-text-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.main-text-container h1{
+    font-size: 50px;
+    font-weight: 600;
+    color: rgb(29, 60, 52);
+    letter-spacing: 2px;
+    margin-bottom: 24px;
+    text-align: center;
+    width: 480px;
+    line-height: 60px;
+}
+
+.main-p-text{
+    color: rgb(29, 60, 52);
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    width: 500px;
+    margin: 0;
+}
+
+.main-last-content{
+    color: rgb(29, 60, 52);
+    font-size: 19px;
+    text-align: center;
+    line-height: 33.25px;
+    width: 550px;
+    margin: 0;
+    letter-spacing: -0.16px;
+}
+
+.main-last-content sup{
+    top: -.5em;
+}
+
+
+.main-text-container h2{
+    color: rgb(29, 60, 52);
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+}
+
+.main-text-container a{
+    display: inline-block;
+}
+
+.main-order-botton{
+    margin-top: 32px;
+    font-size: 16px;
+    font-weight: 600;
+    color: rgb(29, 60, 52);
+    padding: 7px 16px;
+    background-color: rgb(207, 230, 181);
+    border: 0.8px solid;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.main-detail-container{
+    margin-top: 32px;
+    padding-left: 39.6px;
+    padding-right: 39.6px;
+    border-bottom: 0.8px solid rgba(205, 198, 198, 0.808);
+    box-shadow: 0 1px 1px rgba(205, 198, 198, 0.808);
+}
+
+.main-detail-container-inner{
+    display: flex;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    justify-content: center;
+    align-items: center;
+}
+.main-details-text{
+    padding-left: 48px;
+    padding-right: 48px;
+    text-align: center;
+    max-width: 660px;
+    font-size: 14px;
+    line-height: 25.2px;
+}

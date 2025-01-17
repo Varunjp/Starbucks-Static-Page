@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    font-family: "sodo_sansregular";
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'sodo_sansbold';
+    src: url('sodosans-bold-webfont.woff2') format('woff2'),
+         url('sodosans-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'sodo_sansregular';
+    src: url('sodosans-regular-webfont.woff2') format('woff2'),
+         url('sodosans-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}

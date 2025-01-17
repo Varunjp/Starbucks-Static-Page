@@ -1,0 +1,124 @@
+.footer-section{
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
+.footer-navbar-first{
+    display: flex;
+    margin-left: 39.6px;
+    margin-right: 39.6px;
+    border-bottom: 0.8px solid rgba(205, 198, 198, 0.808);
+    box-shadow: 0 1px 1px rgba(205, 198, 198, 0.808);
+}
+.footer-navbar-first-menu{
+    width: 190px;
+    margin-bottom: 32px;
+}
+.footer-navbar-first-menu h2{
+    color: rgba(0, 0, 0, 0.87);
+    font-size: 19px;
+    font-weight: 400;
+    margin-bottom: 24px;
+}
+.footer-navbar-first-menu ul{
+    padding: 0;
+    list-style: none;
+    margin: 0;
+}
+.footer-navbar-first-menu li{
+    margin-bottom: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+.footer-navbar-first-menu a{
+    font-size: 16px;
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.58);
+    transition-duration: 0.2s;
+}
+
+.footer-navbar-first-menu a:hover{
+    color: rgba(0, 0, 0, 0.87);
+}
+
+.footer-navbar-pending-menu{
+    width: 190px;
+    margin-left: 32px;
+}
+
+.footer-navbar-pending-menu h2{
+    color: rgba(0, 0, 0, 0.87);
+    font-size: 19px;
+    font-weight: 400;
+    margin-bottom: 24px;
+    letter-spacing: -0.16px;
+}
+.footer-navbar-pending-menu ul{
+    padding: 0;
+    list-style: none;
+    margin: 0;
+}
+.footer-navbar-pending-menu li{
+    margin-bottom: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+.footer-navbar-pending-menu a{
+    font-size: 16px;
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.58);
+    transition-duration: 0.2s;
+}
+.footer-navbar-pending-menu a:hover{
+    color: rgba(0, 0, 0, 0.87);
+}
+.footer-icon-list{
+    display: flex;
+    list-style: none;
+    margin-top: 32px;
+    padding-left: 39.6px;
+    padding-right: 39.6px;
+}
+.footer-icon-list-li{
+    margin-right: 4px;
+}
+.footer-icon-list-li a{
+    display: flex;
+    min-width: 44px;
+    min-height: 44px;
+    color: rgba(0, 0, 0, 0.87);
+    text-decoration: none;
+}
+
+.footer-policy-list{
+    margin-top: 16px;
+    margin-bottom: 4px;
+    margin-left: 39.6px;
+    padding: 0;
+    list-style: none;
+    display: inline-block;
+}
+
+
+.footer-policy-list a{
+    display: inline-block;
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.87);
+    font-size: 16px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-bottom: 4px;
+    transition-duration: 0.2s;
+}
+
+.footer-policy-list a:hover{
+    text-decoration: underline;
+}
+
+.footer-copy-write{
+    margin-left: 39.6px;
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.58);
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
